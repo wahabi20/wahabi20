@@ -1,4 +1,4 @@
-                                                         Hello there! I'm {"gitdown": "gitinfo", "name": "https://github.com/wahabi20"} 😄
+                                                         Hello there! I'm MALEK 😄
                                       FullStack Developer, JS specialist, Angular/NodeJs enthusiast ⚡,
                                         I also have experience working with ReactNative and ReactJs...
 
