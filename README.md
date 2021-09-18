@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wahabi20&theme=cobalt)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wahabi20&theme=onedark)
