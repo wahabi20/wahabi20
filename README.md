@@ -1,4 +1,6 @@
-### Hi there 👋
+ Hello there! I'm MALEK 😄
+FullStack Developer, JS specialist, Angular/NodeJs enthusiast ⚡,
+I also have experience working with ReactNative and ReactJs...
 
 <!--
 **wahabi20/wahabi20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wahabi20&theme=radical)
